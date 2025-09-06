@@ -1,3 +1,8 @@
+<img width="2314" height="1315" alt="zzzzz" src="https://github.com/user-attachments/assets/c83aa061-ec06-46ee-ab82-8cc4a5e1bd33" />
+
+
+
+
 AI Player EcoSys - 2D Survival (SDL2/OpenGL + C++ & Python)
 
 A digital survival simulation with 25 AI players roaming a 2D world.
